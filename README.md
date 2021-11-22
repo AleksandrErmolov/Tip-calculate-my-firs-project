@@ -1,1 +1,4 @@
-# Tip-calculate-my-firs-project
+Мой первый проект. Калькулятор чаевых.
+Позволяет разделить сумму чека в ресторане на кол-во людей пополам + чаевые!
+
+![image](https://user-images.githubusercontent.com/90044699/142932209-a7a7e9bf-c2d3-4ea3-8f2a-1bcf6813d44b.png)
